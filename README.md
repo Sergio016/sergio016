@@ -16,8 +16,8 @@ Aquí tienes algunos proyectos en los que he estado trabajando recientemente:
 ## Contacto
 
 
-- [LinkedIn]([link_a_tu_perfil](https://www.linkedin.com/in/sergio-l%C3%B3pez-283976272/)): Enlace a tu perfil de LinkedIn.
-- [Correo Electrónico](sergio.lopez16102003@gmail.com): tu@email.com
+- [LinkedIn]([link_a_tu_perfil](https://www.linkedin.com/in/sergio-l%C3%B3pez-283976272/)): Entra a mi perfil de LinkedIn
+- [Correo Electrónico](sergio.lopez16102003@gmail.com): Enviame un correo
 
 ¡No dudes en enviarme un mensaje si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología!
 
