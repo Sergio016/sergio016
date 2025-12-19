@@ -48,14 +48,5 @@ Si no funciona, rómpelo hasta que funcione.”*
 
 ---
 
-## 🤝 Contacto
-
-Si te interesa hablar de tecnología, ciberseguridad o proyectos raros que empiezan como “y si…”,  
-seguro que nos llevamos bien.
-
-📫 *GitHub es un buen comienzo.*
-
----
-
 ⭐ Si has llegado hasta aquí: gracias.  
 Esto no es un perfil acabado, es **trabajo en progreso**.
